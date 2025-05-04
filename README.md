@@ -1,9 +1,9 @@
 # Leonard-Bot
 Leonard Bot Mechanical Design Updates
 
-## 1. Inventor 3D Model (Mel 12 hours)
+## 1. Inventor 3D Model (Mel 13 hours Jesús 1 hour)
 
-### 1.1 How to create new frame profile (Mel 4 hrs)
+### 1.1 How to create new frame profile (Mel 4 hours)
 
 1. Click the setting button
 
@@ -109,7 +109,7 @@ Leonard Bot Mechanical Design Updates
 
 ![Alt text](Images/New_Profile_Steps_Fig26.png)
 
-### 1.2 Chassis Design (Mel 2 hrs)
+### 1.2 Chassis Design (Mel 2 hours)
 First, create the Chassis Skeleton
 
 ![Alt text](Images/Chassis_Design_Fig01.png)
@@ -118,7 +118,7 @@ Then, with the Insert Frame operation create the chassis with the new profile cr
 
 ![Alt text](Images/Chassis_Design_Fig02.png)
 
-### 1.3 Library Components (Mel 2 hrs)
+### 1.3 Library Components (Mel 2 hours)
 Download libraries from GrabCAD and 3DFindit. Here, a list of all the downloaded components will be updated as the design is improved.
 
 Electronic Components
@@ -144,11 +144,11 @@ For the first stage, only L-profile beams were modeled, the rest are library com
 ### 1.5 Constrain Mates (Mel 3 hours)
 For the Constrain Mates some Planes and Axis were created to set the position and orientation.
 
-### 1.6 Create Project File (Mel 1 hour)
+### 1.6 Create Project File (Mel 1 hour Jesús 1 hour)
 In order to share the Inventor Assembly from a local computer to another, a project should be created to avoid errors. Thus I watched the following tutorial on
 Youtube which explains thoroughly why Project Files are important and how to configure them: https://www.youtube.com/watch?v=hhPYpD2Rwmo&t=1s&pp=ygUWcHJvamVjdCBmaWxlcyBpbnZlbnRvcg%3D%3D
 
-## 2. Mecanum Wheel Selection (Mel 3 hours)
+## 2. Mecanum Wheel Selection (Mel 3 hours Jesús 1 hour)
 Since we were unsure about which wheels will be utilized, I decided to have a list of all the potential mecanum wheels we can buy online.
 I found out that the two most popular seller companies are NexusRobot and AndyMark. The former one sells its mecanum wheels via Alixpress, so I
 created an Excel table with Name, Max Payload, Outer Diameter, Price and Links as columns.
