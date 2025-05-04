@@ -6,15 +6,19 @@ Leonard Bot Mechanical Design Updates
 ### 1.1 How to create new frame profile (Mel 4 hrs)
 
 1. Click the setting button
+
 ![Alt text](Images/New_Profile_Steps_Fig01.png)
 
-2. Click the Configure Content Center Libraries 
+2. Click the Configure Content Center Libraries
+
 ![Alt text](Images/New_Profile_Steps_Fig02.png)
 
 3. Click Create Library
+
 ![Alt text](Images/New_Profile_Steps_Fig03.png)
 
 4. Create a sketch for the profile
+
 ![Alt text](Images/New_Profile_Steps_Fig04.png)
 
 5. Extrude the sketch, the dimension does not matter, e.g., 0.0000001 mm
